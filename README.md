@@ -6,5 +6,5 @@ technical and human aspects of engineering by providing super-lightweight practi
 
 We provide below the following components:
 - Essence Pocket Guide: A quick introduction to Essence (pdf format) from [http://www.ivarjacobson.com/];
-- Essence Table (drawio format);
-- Essence Cards Draw.io Library (xml format)
+- Essence Whiteboard (drawio format);
+- Essence Cards drawio Library (xml format)
