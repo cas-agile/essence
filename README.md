@@ -1,4 +1,4 @@
-# essence
+# Essence
 Essence is a standard for the creation, use and improvement of software engineering practices and methods, which is maintained and published by the OMG international open standards consortium.
 
 The spirit of Essence is to concentrate on the essential information and to optimize both the
